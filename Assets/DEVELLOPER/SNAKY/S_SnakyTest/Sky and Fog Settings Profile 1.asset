@@ -294,7 +294,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   enabled:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   colorMode:
     m_OverrideState: 1
@@ -319,13 +319,13 @@ MonoBehaviour:
     m_Value: 1000
   baseHeight:
     m_OverrideState: 1
-    m_Value: 1.23
+    m_Value: 0.31
   maximumHeight:
     m_OverrideState: 1
     m_Value: 50
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 400
+    m_Value: 416.65
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
