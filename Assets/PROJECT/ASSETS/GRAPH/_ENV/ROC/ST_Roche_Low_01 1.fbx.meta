@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ST_Roche_Low_01_default
-    second: {fileID: 2100000, guid: 1b25e95331b4c604286e7f142189250c, type: 2}
+    second: {fileID: 2100000, guid: 46f67e2168a984f41ae9e9eeffc954ea, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
