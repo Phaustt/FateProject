@@ -114,7 +114,7 @@ Material:
     - _AlphaToMaskInspectorValue: 0
     - _Base_Tile: 1
     - _BlendMode: 0
-    - _Blue_Tile: 1
+    - _Blue_Tile: 4
     - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 2
     - _CullModeForward: 2
@@ -130,7 +130,7 @@ Material:
     - _RayTracing: 0
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
-    - _Red_Tile: 1
+    - _Red_Tile: 2
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0

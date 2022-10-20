@@ -45,15 +45,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Base_Diif:
-        m_Texture: {fileID: 2800000, guid: 22ccd134c98a7ba4c9a01beed752a412, type: 3}
+        m_Texture: {fileID: 2800000, guid: b0465adc74a67484eb893bcda0a48b20, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Base_Mask:
-        m_Texture: {fileID: 2800000, guid: 8ede50512a01b1a40b4bcc646bb8bdb8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 75107e3d335db5f4984c8809481c5775, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Base_Normal:
-        m_Texture: {fileID: 2800000, guid: d61658a70b6017d43b1614d505703541, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9ee8e54b7c804364b901b5b72119a533, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Blue_Diff:
