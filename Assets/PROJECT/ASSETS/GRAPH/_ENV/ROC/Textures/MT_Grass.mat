@@ -57,39 +57,39 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Blue_Diff:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: fd8e03d9341d1bb47903d2a3367f9f3d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Blue_Mask:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 7df7e7168670863468b4d4f3f3d3ea7c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Blue_Normal:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: fe28bafaffed58c46bb5da828acbe2f8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Green_Diff:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 22ccd134c98a7ba4c9a01beed752a412, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Green_Mask:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 8ede50512a01b1a40b4bcc646bb8bdb8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Green_Normal:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: d61658a70b6017d43b1614d505703541, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Red_Diff:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: a56496895ac8d854eb69dc97813b9f4f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Red_Mask:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: eb0424529e3326040a95a61bf3084cda, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Red_Normal:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: a5ee035b176c6ca49b6d9dfdd966b54e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -114,7 +114,7 @@ Material:
     - _AlphaToMaskInspectorValue: 0
     - _Base_Tile: 10
     - _BlendMode: 0
-    - _Blue_Tile: 1
+    - _Blue_Tile: 10
     - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 2
     - _CullModeForward: 2
@@ -125,12 +125,12 @@ Material:
     - _DstBlend: 0
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
-    - _Green_Tile: 1
+    - _Green_Tile: 10
     - _OpaqueCullMode: 2
     - _RayTracing: 0
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
-    - _Red_Tile: 1
+    - _Red_Tile: 10
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
